@@ -1,0 +1,15 @@
+{
+  "name": "Palindrome-Creator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Palindrome-Creator-javascript.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^25.1.0"
+  }
+}
